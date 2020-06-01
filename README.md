@@ -9,6 +9,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] Routing
 - [x] Redux
 
+## How to use
+1. Clone or download this repository
+2. Install all package using `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
