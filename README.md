@@ -37,5 +37,18 @@ Untuk menggunakan CRA :
 ## Axios
 Axios adalah package yang dapat dimanfaatkan untuk melakukan HTTP request ke server. Untuk dapat menggunakan nya, kita harus menginstall dulu axios dmelalui NPM kemudian melakukan import pada file yang akan menggunakan axios.
 
-Untuk install axios menggunakan perintah 
+- Install axios menggunakan perintah 
 > `npm install --save axios`
+
+## Routing 
+React dapat digunakan untuk membuat single page application (SPA). SPA hanya menggunakan 1 file HTML namun dapat memberikan tampilan multi pages seperti web pada umumnya.
+Untuk melakukan routing dapat menggunakan `react-router-dom`.
+
+- Install `react-router-dom` menggunakan perintah
+> `npm install react-router-dom`
+
+## Redux
+Redux adalah library javascript untuk manajemen state. Redux merupakan container state yang memudahkan dalam pengelolaan state pada aplikasi.
+
+- Install redux menggunakan perintah
+> `npm install --save redux`
