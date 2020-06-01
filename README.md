@@ -29,7 +29,7 @@ Untuk menggunakan CRA :
    - npm versi >= 5.2
        - buka terminal
        - untuk membuat project jalankan perintah
-       - > `npx create-react-app project-name`
+         - > `npx create-react-app project-name`
 
 ## Axios
 Axios adalah package yang dapat dimanfaatkan untuk melakukan HTTP request ke server. Untuk dapat menggunakan nya, kita harus menginstall dulu axios dmelalui NPM kemudian melakukan import pada file yang akan menggunakan axios.
